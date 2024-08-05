@@ -1,0 +1,13 @@
+{
+  "name": "jest-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.spec.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "30.0.0-alpha.5"
+  },
+  "packageManager": "yarn@1.22.19"
+}
